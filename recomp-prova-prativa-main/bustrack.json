@@ -1,0 +1,15 @@
+[
+  {
+    "nome": "Jao Milit",
+    "data_nascimento": "10.02.1990",
+    "carteira_habilitacao": "55",
+    "id_motorista": "c192ce16-0c6e-4e88-950d-0cb7f3962248"
+  },
+  {
+    "placa": "7hthx",
+    "modelo": "Agrale: 7 (0,21%)",
+    "ano_fabricacao": "22.02.1995",
+    "capacidade": "4100",
+    "id_motorista": "460545f2-9bb5-41c0-bec3-05776784279c"
+  }
+]
